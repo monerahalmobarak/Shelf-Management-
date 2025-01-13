@@ -1,0 +1,6 @@
+{
+   "Shelf management API ":{
+      "product_quantity":"number of quantity",
+      "product_location":"location of product"
+   }
+}

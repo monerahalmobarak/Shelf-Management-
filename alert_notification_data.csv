@@ -1,0 +1,401 @@
+alert_type,alert_message,alert_date,store_location,product_id,product_name
+customer service,add more,12/9/2016,"455 Barron Walk Suite 695
+New Brian, PR 21132",P809, dress 
+customer service,product numberP343is misplaced,12/7/2010,"077 Rivera Gateway
+Howardtown, PR 86617",P343, dress 
+inventory,product numberP305is misplaced,8/26/2015,"081 Moreno Points Apt. 113
+North John, HI 28902",P305, pants
+inventory,add more,7/4/1998,"99192 Matthew Crescent Suite 269
+Robinsonport, ME 44625",P795, dress 
+customer service,product numberP287is misplaced,1/5/2021,"96326 Bell Keys
+South Emily, MT 18598",P287,T-shirt 
+customer service,add more,2/25/1991,"28467 Ryan Hollow
+Lake Jessicaburgh, TN 01000",P851, pants
+inventory,add more,11/4/2017,"505 Briggs Parks
+Ethanview, VA 25110",P796,T-shirt 
+customer service,product numberP763is misplaced,12/29/2010,"348 Mark Crescent Suite 189
+Dominguezville, VA 73005",P763, dress 
+inventory,product numberP598is misplaced,9/26/2010,"8295 Lauren Centers
+Garciamouth, MH 20413",P598, pants
+sales,add more,1/27/1977,"7489 Amanda Road
+Woodfort, KY 08911",P608, pants
+inventory,product numberP644is misplaced,10/2/1976,"99096 Baker Highway
+New Melaniefort, RI 58514",P644, dress 
+sales,add more,6/9/2010,"9385 Kelly Hill
+Dianefurt, WV 63672",P954,T-shirt 
+customer service,add more,1/31/1971,"USNV Henderson
+FPO AA 47958",P834, pants
+sales,product numberP888is misplaced,7/11/2011,"02125 Jamie Common
+Martinport, TN 29689",P888,T-shirt 
+sales,product numberP793is misplaced,6/3/2013,"023 Thompson Street Apt. 637
+Zavalabury, WI 46368",P793, pants
+inventory,product numberP777is misplaced,6/28/2021,"3973 Silva Center
+Port Douglas, WA 51458",P777,T-shirt 
+sales,product numberP800is misplaced,8/9/2021,"6206 Smith Underpass Suite 395
+West Jeffrey, SC 09902",P800, pants
+customer service,product numberP469is misplaced,6/28/2014,"74236 Johnson Trafficway Suite 081
+Brownton, NV 16733",P469, dress 
+customer service,add more,4/22/2011,"604 Heather Square
+Edwardmouth, MS 78724",P344, dress 
+sales,product numberP249is misplaced,10/23/1999,"5086 Woods Fords Suite 322
+Eduardohaven, AS 11785",P249,T-shirt 
+sales,product numberP244is misplaced,11/28/1995,"27230 Dawn Place Suite 716
+New Amanda, CO 65026",P244,T-shirt 
+inventory,add more,10/11/1996,"Unit 8894 Box 7731
+DPO AA 52361",P769, dress 
+customer service,add more,12/17/1981,"35737 David Expressway
+Elizabethbury, PW 37894",P895,T-shirt 
+customer service,add more,7/20/1990,"029 Kathryn Key
+North Seanville, AR 76544",P922,T-shirt 
+inventory,add more,5/16/1984,"26680 Erin Loaf Apt. 396
+New Travis, WY 78488",P619,T-shirt 
+sales,add more,5/22/1988,"489 Theresa Locks
+Schmidttown, WA 77827",P746, pants
+customer service,product numberP542is misplaced,12/26/2020,"PSC 4802, Box 1018
+APO AE 37139",P542, pants
+inventory,add more,3/14/2011,"471 Vincent Mountain Suite 648
+Michaelburgh, PR 04214",P197, dress 
+customer service,add more,5/28/2010,"9808 Nichole Mills
+South Kathleenside, VT 31048",P330,T-shirt 
+inventory,product numberP464is misplaced,9/3/1982,"5734 Lopez Ports Apt. 511
+Russellmouth, UT 96776",P464, dress 
+inventory,product numberP754is misplaced,7/1/2002,"6279 Katie Underpass
+Joanborough, GA 88306",P754, pants
+inventory,product numberP702is misplaced,3/31/2021,"Unit 0146 Box 6145
+DPO AA 69414",P702, dress 
+customer service,product numberP638is misplaced,11/6/1998,"227 Warren Square Suite 445
+New Lisahaven, NE 06086",P638, pants
+sales,product numberP991is misplaced,12/25/2001,"158 Heather Field
+Carpenterside, KY 46444",P991,T-shirt 
+sales,product numberP881is misplaced,2/2/1975,"0433 Austin Knoll Apt. 846
+South Michelleshire, MD 47836",P881, dress 
+inventory,add more,12/20/1991,"1803 Smith Bridge
+South Christianmouth, DE 57578",P876, dress 
+customer service,add more,3/16/2000,"755 John Villages Apt. 239
+West John, UT 24979",P815, dress 
+sales,product numberP140is misplaced,1/10/2010,"0703 Kimberly Ridge Apt. 162
+South Sarah, NJ 73140",P140, dress 
+inventory,add more,4/24/2016,"5240 May Union Suite 129
+Hallfurt, NM 99200",P298,T-shirt 
+inventory,product numberP733is misplaced,2/7/2011,"531 Young Greens
+East Erin, LA 06322",P733, dress 
+sales,product numberP436is misplaced,12/7/2021,"6680 Thomas Rapid
+West Anitaville, AR 59124",P436,T-shirt 
+inventory,product numberP237is misplaced,3/9/2005,"400 Torres Rapid
+West Kimland, MN 85661",P237, pants
+inventory,product numberP353is misplaced,3/6/2004,"943 Roach Tunnel Apt. 424
+Perryport, HI 52595",P353,T-shirt 
+inventory,add more,11/9/1981,"33048 Alexander Club
+Steveberg, AZ 32164",P183,T-shirt 
+customer service,add more,8/1/2006,"689 George Knolls
+Matthewland, MT 10132",P624,T-shirt 
+inventory,product numberP191is misplaced,11/9/1989,"3281 Annette Plaza Apt. 624
+Danielfurt, SD 43938",P191, dress 
+inventory,product numberP935is misplaced,1/14/1978,"759 Ryan Divide
+Russellmouth, LA 96560",P935, pants
+sales,add more,6/11/2018,"177 Shelton Burg
+Port Amanda, LA 51627",P641, dress 
+inventory,add more,3/24/2007,"162 Megan Forest
+Timothyberg, UT 16370",P206,T-shirt 
+customer service,add more,11/15/1986,"3167 Rivera Plaza Apt. 137
+East Karenshire, CT 61343",P591,T-shirt 
+sales,add more,7/5/2021,"6368 Heather Track Apt. 538
+Brandyfort, GA 62432",P361,T-shirt 
+sales,product numberP637is misplaced,5/14/1984,"73426 Janet Ford Suite 798
+West Patriciaton, DC 36802",P637, pants
+sales,product numberP274is misplaced,9/6/1982,"PSC 1507, Box 0673
+APO AA 77860",P274, dress 
+sales,product numberP318is misplaced,4/24/2010,"47080 Charles Port
+East Amanda, SC 98768",P318, pants
+customer service,add more,9/27/1992,"28837 Oliver Trace
+Amandabury, MS 38378",P377, dress 
+inventory,product numberP178is misplaced,3/5/2022,"3398 Lauren Bridge
+North Dylan, GU 89139",P178, dress 
+sales,add more,11/25/1996,"0574 Garcia Rapid Apt. 865
+East Ryanshire, DC 41773",P526, pants
+sales,add more,4/6/2001,"186 Phillips Creek Apt. 669
+New Elizabethstad, TN 94038",P687, dress 
+inventory,add more,7/24/1983,"9998 Pierce Mill Suite 056
+North Tara, IN 21999",P625, dress 
+customer service,add more,1/6/1974,"453 Robert Loaf Suite 085
+East John, NJ 54954",P825, pants
+inventory,add more,1/13/1979,"737 Juan Haven Apt. 818
+Kingstad, OH 98548",P158, pants
+customer service,add more,5/21/2005,"USS Cox
+FPO AA 16486",P342, pants
+inventory,product numberP481is misplaced,4/16/1971,"577 Carl Center
+East Davidstad, ND 83518",P481,T-shirt 
+customer service,add more,6/27/2010,"0637 Jeremiah Haven Suite 961
+Mcgeeside, AZ 94422",P962, dress 
+inventory,add more,8/4/2013,"66285 Jason Throughway Apt. 624
+Millermouth, MP 48265",P801,T-shirt 
+customer service,add more,5/8/1980,"USCGC Wright
+FPO AE 52371",P223, dress 
+sales,product numberP666is misplaced,11/23/1970,"6133 Diana Mountain
+Omarland, SC 84339",P666, pants
+customer service,add more,8/10/2018,"92967 Robert Street Suite 658
+Rogerstad, VT 86776",P739, dress 
+inventory,add more,6/14/1993,"1234 Riddle Centers
+Parkerport, MI 57996",P428, pants
+inventory,product numberP102is misplaced,3/9/2006,"221 Booker View
+Heathville, HI 94606",P102, dress 
+sales,product numberP115is misplaced,9/5/2000,"360 Laurie Ramp
+Lake Kevinland, NY 88657",P115, dress 
+sales,add more,11/27/1978,"PSC 9960, Box 9268
+APO AA 08675",P813, pants
+sales,add more,11/13/2018,"598 Murphy Club Suite 690
+Lake Katherinechester, NJ 72526",P230, pants
+customer service,add more,9/19/2022,"03429 Wade Views
+Rogersland, SC 42011",P341, pants
+sales,add more,1/11/2000,"237 Kimberly Point Suite 850
+East Tonyaton, WV 16821",P367, pants
+sales,product numberP843is misplaced,11/8/1979,"771 Taylor Neck Apt. 887
+East Christopher, NV 54985",P843, pants
+inventory,product numberP659is misplaced,12/24/1985,"Unit 4779 Box 0577
+DPO AE 29364",P659,T-shirt 
+sales,product numberP835is misplaced,8/20/2008,"620 Davis Gardens Suite 964
+Bentonchester, VT 33972",P835, dress 
+customer service,add more,7/29/1970,"037 Robinson Coves
+Wardberg, NH 48606",P692,T-shirt 
+customer service,product numberP265is misplaced,3/19/1994,"36136 Tanner Flat Suite 768
+South Brendanmouth, NC 08906",P265, dress 
+sales,product numberP259is misplaced,4/25/2001,"39823 Joseph Parkway Apt. 324
+Jenniferview, AL 77334",P259, pants
+inventory,add more,5/4/1988,"105 Sydney Islands Suite 671
+East Shannonmouth, ME 58621",P319, pants
+customer service,add more,10/25/2019,"1399 Moore Flat
+Port Donnafurt, IL 49232",P211,T-shirt 
+sales,add more,12/22/1981,"2922 Clark Streets
+Hughesstad, KS 81015",P222,T-shirt 
+customer service,product numberP580is misplaced,4/11/2006,"USNV Hawkins
+FPO AP 32675",P580, dress 
+sales,add more,2/26/1989,"1053 Curtis Streets Apt. 242
+Lake Alexis, CA 57725",P531, dress 
+sales,product numberP804is misplaced,5/9/1985,"0933 Allison Rest Apt. 154
+Port James, NE 77694",P804,T-shirt 
+customer service,product numberP216is misplaced,1/31/1984,"USNV Greer
+FPO AP 51753",P216, pants
+customer service,add more,3/6/1987,"USNS Hall
+FPO AA 89198",P393, dress 
+sales,add more,5/8/1985,"802 John Manors
+Rachelville, AR 27463",P977, pants
+sales,product numberP552is misplaced,1/30/1970,"9556 Wilson Underpass
+Colleenborough, FL 08765",P552, dress 
+sales,product numberP384is misplaced,2/11/1973,"8299 Williams Field
+Ellenside, GU 46107",P384,T-shirt 
+sales,add more,9/9/2016,"Unit 3503 Box 9194
+DPO AP 51221",P860, dress 
+inventory,add more,2/14/1971,"9161 Tracy Rapid
+North Keithshire, MP 04610",P110,T-shirt 
+sales,product numberP886is misplaced,12/28/2009,"21466 Carpenter Stravenue
+New Tricia, VA 03587",P886, dress 
+customer service,product numberP349is misplaced,12/21/1983,"922 Rachel Vista
+East Shannonbury, VA 23571",P349,T-shirt 
+customer service,add more,4/2/2007,"44975 Angela Alley
+North Kristina, MN 35600",P338, pants
+customer service,add more,6/19/2007,"67744 Sharp Mountains Apt. 344
+Port Christopherburgh, NE 75330",P280, dress 
+sales,product numberP596is misplaced,4/22/1977,"256 Green Walks Suite 825
+Christinamouth, PW 63396",P596,T-shirt 
+sales,add more,9/30/1976,"4438 Patrick Springs Suite 440
+East Charles, MH 75239",P414,T-shirt 
+customer service,add more,5/21/2011,"7407 Baird Ford
+Barnesview, MH 83942",P549,T-shirt 
+inventory,add more,11/23/1970,"20590 Gates Manors Apt. 640
+Holmestown, FL 75268",P497, pants
+sales,add more,8/26/1996,"71916 Mills Islands Suite 712
+West Daniel, WY 74379",P972,T-shirt 
+sales,product numberP333is misplaced,3/10/1988,"3228 Riley Branch
+Perryville, WV 38283",P333, pants
+customer service,product numberP363is misplaced,5/5/1979,"8397 Amy Dam Suite 759
+Stephenborough, TX 28464",P363, pants
+sales,add more,2/9/1993,"037 Bell Center
+Aaronburgh, MH 46781",P830, pants
+sales,add more,10/12/2002,"9105 Black Passage Apt. 820
+Austinfort, OH 97332",P228, dress 
+sales,add more,1/23/1979,"57999 Mathis Mall Suite 834
+Robinsonport, NM 98195",P699, dress 
+sales,product numberP595is misplaced,4/9/2019,"532 Smith Trail Apt. 509
+Alexanderside, OR 82096",P595, pants
+sales,add more,9/23/1983,"15425 Meghan Spurs Suite 205
+East Samantha, MP 20503",P697, pants
+sales,product numberP143is misplaced,1/27/1998,"9547 Gregory Loaf
+West Henry, MN 34381",P143, dress 
+sales,add more,1/1/1987,"5457 Dale Mill Suite 858
+Bryceshire, WI 98499",P662,T-shirt 
+customer service,product numberP215is misplaced,7/11/1994,"8898 Martinez Parkway
+East Andrew, AR 64264",P215, pants
+customer service,add more,8/16/1996,"Unit 4055 Box 5365
+DPO AA 70649",P385, pants
+inventory,product numberP352is misplaced,3/12/1986,"USNS Williams
+FPO AA 38579",P352, pants
+inventory,product numberP406is misplaced,11/12/1970,"25303 Erickson Heights Suite 640
+East Kristin, IN 69052",P406, dress 
+customer service,product numberP941is misplaced,5/27/1980,"9015 Susan Stravenue
+Shawnfurt, PA 98990",P941,T-shirt 
+inventory,add more,1/28/1985,"6293 Johnson Gardens Suite 904
+Nicolebury, WY 79758",P792,T-shirt 
+customer service,add more,1/11/1974,"637 Gerald Mission Apt. 654
+Sheilatown, GU 55030",P299, pants
+inventory,add more,10/16/2003,"12797 Miles Springs
+Rachelville, NM 79087",P987,T-shirt 
+sales,product numberP911is misplaced,9/7/1970,"878 Fox Station
+Lesterbury, PA 73957",P911, pants
+sales,add more,4/11/2013,"582 Brown Station Apt. 726
+East Arthur, MD 16334",P682,T-shirt 
+customer service,add more,2/27/2004,"525 Garcia Point Apt. 627
+Erinborough, VI 13359",P375, dress 
+customer service,add more,10/28/2009,"60776 Rodriguez Via
+New Michael, LA 10966",P992, dress 
+sales,product numberP960is misplaced,2/21/1975,"734 Logan Springs Suite 925
+North Lee, MP 78337",P960, pants
+sales,product numberP193is misplaced,2/1/1978,"7336 Harvey Fork
+Lake Kelly, MO 91133",P193, pants
+sales,product numberP999is misplaced,4/5/1974,"Unit 3135 Box 1235
+DPO AE 87431",P999, dress 
+sales,add more,3/28/2006,"1070 Mason Stravenue Suite 599
+Port Brianmouth, IL 12457",P373, pants
+inventory,add more,9/26/1978,"97393 Hannah Estates
+West Jenna, WV 04783",P758,T-shirt 
+sales,add more,8/20/1993,"USS Montgomery
+FPO AE 16159",P394, pants
+customer service,add more,6/18/1984,"6582 Alejandro Stream
+Jonesville, GA 71310",P582,T-shirt 
+inventory,add more,3/1/2006,"319 Sara Key Suite 180
+New Rita, WI 55235",P151, pants
+inventory,product numberP218is misplaced,8/22/2018,"22311 Shelby Lights
+Paulhaven, PW 05647",P218, pants
+inventory,add more,12/7/2008,"USCGC Haney
+FPO AP 02238",P485, dress 
+sales,product numberP586is misplaced,7/20/1996,"71373 Mack Springs
+North Veronica, ID 22017",P586,T-shirt 
+inventory,product numberP294is misplaced,5/2/2000,"4279 Christine Views
+North Jessicaborough, TN 58460",P294, pants
+inventory,product numberP545is misplaced,12/11/1971,"067 Lopez Parks Suite 941
+Lake Jessica, IN 76885",P545, pants
+inventory,product numberP357is misplaced,4/28/1999,"2009 Michele Junction Suite 777
+Christensenville, MI 74970",P357, pants
+inventory,product numberP152is misplaced,5/25/2009,"52587 Wilson Trafficway
+Clarkhaven, SD 33189",P152, dress 
+customer service,add more,5/1/1974,"1567 Sharon Way Apt. 852
+Davidberg, RI 76212",P388,T-shirt 
+sales,product numberP154is misplaced,5/28/2022,"769 Edwin Ridges Apt. 824
+North Brittanyborough, OK 53547",P154, dress 
+customer service,product numberP391is misplaced,7/28/1988,"48342 Denise Park
+Jameschester, WV 29712",P391, dress 
+sales,product numberP383is misplaced,10/1/2013,"Unit 9487 Box 0065
+DPO AE 51167",P383, pants
+customer service,product numberP970is misplaced,10/2/2010,"322 Carl Expressway
+East Deniseport, AR 72497",P970,T-shirt 
+customer service,product numberP540is misplaced,9/3/1983,"10487 Black Haven Suite 801
+Port Elizabeth, OH 46407",P540, pants
+inventory,add more,1/28/2020,"7701 Scott Pike Suite 077
+East Christophermouth, NV 91014",P457, pants
+sales,product numberP845is misplaced,12/6/1998,"472 Lindsey Curve Suite 730
+Loganton, AK 87856",P845, pants
+sales,product numberP635is misplaced,8/9/1994,"USCGC Thomas
+FPO AP 30497",P635,T-shirt 
+inventory,add more,8/23/1988,"339 Maddox Islands
+South John, MA 78536",P590, pants
+customer service,product numberP916is misplaced,6/5/2008,"0738 Kristina Villages Apt. 407
+Victoriaborough, KY 83764",P916,T-shirt 
+sales,add more,9/5/1990,"06228 Miller Place Apt. 218
+North Markton, RI 92191",P470, dress 
+sales,add more,6/17/1982,"26849 Timothy Trace
+Port Donald, PW 67091",P389, dress 
+customer service,product numberP515is misplaced,12/30/1993,"5796 Patricia Causeway Apt. 874
+East Brian, MS 91147",P515, pants
+customer service,product numberP184is misplaced,4/29/1994,"1778 Solomon Curve
+East Maria, VI 66831",P184, dress 
+sales,product numberP202is misplaced,11/1/1992,"3522 Horn Rest Apt. 034
+Irwinshire, MT 48391",P202, dress 
+sales,add more,2/1/2022,"USNV Edwards
+FPO AA 71748",P437,T-shirt 
+customer service,product numberP766is misplaced,9/26/1983,"201 Glover Isle Suite 605
+Kennethfurt, KY 84035",P766, dress 
+customer service,add more,4/9/1971,"761 Stephen Park
+South Melissa, PW 00622",P948, dress 
+sales,product numberP781is misplaced,5/30/2003,"873 Dan Dam Suite 924
+West Jasonstad, CO 79022",P781, dress 
+sales,add more,9/3/1991,"6252 Tony Trail Apt. 150
+Bethanyborough, AL 71028",P146,T-shirt 
+sales,product numberP963is misplaced,5/3/2002,"4334 Annette Flats
+South Dalton, LA 24060",P963, dress 
+sales,add more,5/18/2022,"473 Chambers Plains
+North Sheila, MA 84237",P410, dress 
+inventory,add more,9/17/1983,"28238 Tracy Walks
+West William, MD 50115",P331,T-shirt 
+customer service,product numberP673is misplaced,1/2/2016,"3908 Katelyn Street
+Tonyaville, NE 84327",P673,T-shirt 
+sales,product numberP366is misplaced,12/26/1976,"752 Cassandra Gardens Suite 011
+Glennville, KS 81281",P366,T-shirt 
+inventory,product numberP466is misplaced,3/15/1993,"5131 Ian Rest Apt. 969
+Warrenburgh, AL 65172",P466,T-shirt 
+customer service,product numberP594is misplaced,2/13/1988,"16472 Susan Stream Apt. 830
+Lake Jeffery, OR 81983",P594, pants
+sales,product numberP117is misplaced,2/16/1994,"69267 Michelle Junction
+Tonyport, AK 58022",P117,T-shirt 
+inventory,product numberP627is misplaced,5/15/1986,"306 Castillo Parkway
+Port Samantha, MI 66491",P627, pants
+customer service,add more,9/24/1977,"727 Spears Highway
+Kerrbury, WV 74472",P425, dress 
+inventory,product numberP632is misplaced,4/6/1982,"2071 Nicholson Parkways
+East Aprilmouth, NM 11833",P632, pants
+inventory,product numberP296is misplaced,4/16/2013,"114 Thompson Lodge
+Gonzalezmouth, MD 69818",P296,T-shirt 
+customer service,product numberP106is misplaced,3/20/1975,"33890 Joseph Ports Apt. 069
+South Sandrafurt, GA 68654",P106,T-shirt 
+sales,add more,6/13/1994,"0736 Kelli Squares Suite 453
+Vangland, MI 19823",P747, pants
+sales,add more,9/13/2013,"3529 Manuel Unions Suite 288
+East Matthewland, IA 12280",P561, dress 
+sales,product numberP227is misplaced,2/14/1977,"42063 Rita Mission Apt. 168
+East Lauraberg, PA 43949",P227, dress 
+sales,product numberP376is misplaced,12/8/1980,"USCGC Davis
+FPO AP 95455",P376, dress 
+inventory,product numberP221is misplaced,1/8/1995,"36651 Contreras Glens
+New Jordanborough, HI 35016",P221, dress 
+sales,add more,12/23/1993,"5365 Hunt Row Apt. 064
+Crossborough, NM 02527",P670,T-shirt 
+sales,add more,2/4/2011,"661 Brian Squares
+Markton, MA 67391",P690, pants
+inventory,add more,2/17/1998,"PSC 3086, Box 8483
+APO AE 10299",P912, pants
+inventory,product numberP255is misplaced,11/28/2016,"39797 Kirsten Spurs Apt. 095
+Josephstad, NH 57783",P255, pants
+inventory,add more,9/11/1998,"246 Stephanie Courts
+East Michael, MT 65375",P395, pants
+customer service,product numberP696is misplaced,12/29/2016,"1939 Simon Trail Apt. 534
+Owensville, WV 31812",P696,T-shirt 
+customer service,product numberP589is misplaced,8/20/1973,"6465 Page Viaduct
+Castilloview, UT 46151",P589, dress 
+inventory,product numberP306is misplaced,11/20/2013,"6773 Villegas Pine Suite 701
+East Mark, NV 70515",P306, dress 
+sales,product numberP861is misplaced,5/17/2003,"6193 Schmitt Plaza Apt. 003
+Ramirezhaven, AZ 04462",P861,T-shirt 
+inventory,add more,1/21/1983,"643 John Viaduct
+Taraborough, GU 53602",P872,T-shirt 
+sales,add more,4/30/1992,"5670 Parks Passage
+Holtburgh, PA 20594",P610, dress 
+sales,product numberP933is misplaced,12/9/1990,"7161 Valerie Inlet
+Lake Sarah, MD 21884",P933, pants
+sales,product numberP234is misplaced,11/8/1998,"4597 Susan Isle
+Cherylport, MA 43437",P234, dress 
+sales,product numberP303is misplaced,11/22/2005,"74725 Taylor Plaza Suite 032
+Port Tanya, CT 04569",P303, pants
+inventory,product numberP716is misplaced,3/3/1994,"38581 Sandy Mountain Apt. 518
+Cruzmouth, CT 80159",P716, pants
+sales,product numberP350is misplaced,11/17/1995,"1378 Delgado Stravenue Apt. 385
+Port Frank, AS 17295",P350, dress 
+sales,product numberP463is misplaced,12/10/1991,"2523 Lauren Lock Apt. 076
+South Kimberly, FM 22516",P463, dress 
+sales,add more,8/5/1975,"02392 Tony Divide Apt. 695
+East Jim, AK 36321",P894, pants
+customer service,add more,3/3/2009,"4162 Scott Grove Apt. 507
+Lake Aaron, UT 56106",P788, pants
+sales,add more,9/5/1995,"518 Holloway Forest Suite 363
+North Elizabeth, NH 99713",P905, dress 
+customer service,product numberP538is misplaced,7/23/2015,"223 Andre Overpass Suite 547
+Campbellberg, NM 87515",P538,T-shirt 
+sales,product numberP854is misplaced,11/4/1981,"PSC 6583, Box 2767
+APO AA 63076",P854,T-shirt 
